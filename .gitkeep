@@ -1,0 +1,3 @@
+# Create uploads directory and .gitkeep
+mkdir -p public/uploads
+touch public/uploads/.gitkeep
